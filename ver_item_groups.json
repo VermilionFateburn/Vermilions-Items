@@ -1,0 +1,93 @@
+[ 
+ {
+    "id": "vault",
+    "type": "item_group",
+    "items": [
+	[ "hf_blade", 2 ],
+	[ "manual_augsword", 2 ]
+	
+	]
+	},
+    {	
+	"id": "science",
+	"type": "item_group",
+	"items": [
+	[ "hf_blade", 1 ],
+	[ "manual_augsword", 1 ]
+	
+	]
+	},
+ {
+	"id": "guns_rifle_obscure",
+	"type": "item_group",
+	"items": [
+	[ "ptrs41", 25 ]
+	
+	]
+	},
+	{
+    "type": "item_group",
+    "id": "ammo_rifle_obscure",
+	"items": [
+	[ "145x114mm", 35 ]
+	]
+	},
+	{
+    "type": "item_group",
+    "id": "mags_obscure",
+	"items": [
+	[ "145x114mm_mag", 10 ]
+	]
+	},
+	{
+	"type" : "item_group",
+    "id" : "bedroom",
+    "items":[
+	[ "kantele", 5 ],
+	[ "egg_vibrator", 7 ]
+	]
+	},
+	{
+	"id": "musicstore_showpiece",
+    "type": "item_group",
+    "items": [
+	[ "kantele", 15 ]
+	]
+	},
+	{
+	"id": "mussto_stringinst",
+    "type": "item_group",
+    "items": [
+	[ "kantele", 30 ]
+	]
+	},
+	{
+	"type" : "item_group",
+    "id" : "everyday_gear",
+	"items": [
+	[ "egg_vibrator", 7 ]
+	]
+	},
+	{
+	"id": "sex_lair",
+    "type": "item_group",
+    "items": [
+	[ "egg_vibrator", 45 ]
+	]
+	},
+	{
+    "id": "elecsto_persele",
+    "type": "item_group",
+    "items": [
+	[ "egg_vibrator", 1 ]
+	]
+	},
+	  {
+    "id": "military",
+    "type": "item_group",
+    "items": [
+	[ "hf_blade", 2 ],
+	[ "manual_augsword", 2 ]
+	]
+	}
+]

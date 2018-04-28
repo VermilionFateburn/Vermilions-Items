@@ -1,0 +1,11 @@
+[
+	{
+		"type": "MOD_INFO",
+		"ident": "VerItems",
+		"name": "Vermilion's Items",
+		"authors": [ "Vermilion" ],
+		"description": "Adds some items.",
+		"category": "none",
+		"dependencies": [ "dda" ]
+	}
+]

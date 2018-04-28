@@ -1,0 +1,20 @@
+[
+  {
+    "id": "manual_augsword",
+    "copy-from": "book_martial",
+    "type": "GENERIC",
+    "name": "binder-CLASSIFIED #1137 CQC prototype",
+    "name_plural": "binder-CLASSIFIED #1137 CQC prototypes",
+    "description": "A thick binder filled technical documents with coffee stains seemingly on every page. There's something about teaching bionic soldiers on how to use a special blade in here.",
+    "book_data": {
+      "max_level": 5,
+      "intelligence": 8,
+      "time": 10,
+      "fun": 0,
+      "skill": "melee",
+      "required_level": 3,
+      "chapters": 8,
+      "use_action": "MA_MANUAL"
+    }
+  }
+]

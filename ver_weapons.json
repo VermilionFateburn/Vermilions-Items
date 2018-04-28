@@ -1,0 +1,45 @@
+[
+{
+        "id": "hf_blade",
+        "type": "TOOL",
+        "category": "weapons",
+        "name": "high-frequency blade",
+        "description": "A high-tech prototype katana reinforced with a powerful alternating current, causing the blade to resonate at extremely high vibration frequencies. Because of how the oscillation weakens any molecular bond the blade touches, it has little trouble cutting through most anything.",
+        "weight": 1300,
+        "volume": 9,
+        "price": 5000000,
+        "to_hit": 2,
+        "cutting": 52,
+        "material": [ "steel", "superalloy" ],
+        "symbol": "/",
+        "color": "light_gray",
+        "techniques": [ "RAPID", "WBLOCK_2" ],
+        "qualities": [ [ "CUT", 3 ], [ "BUTCHER", 11 ] ],
+        "flags": [ "DURABLE_MELEE", "SHEATH_SWORD" ]
+		    },
+			
+{
+		"id": "ptrs41",
+		"type": "GUN",
+		"name": "PTRS-41",
+		"copy-from": "rifle_base",
+		"symbol": "(",
+		"color": "dark_gray",
+		"description": "The PTRS-41 is a semi-automatic anti-tank rifle produced and used by the Russians during World War II. It fires the powerful 14.5x114mm cartridge, but getting ahold of those after the Cataclysm might prove to be a difficult task.",
+		"price": 189000,
+		"material": ["steel", "wood"],
+		"weight": 20300,
+		"volume": 14,
+		"to_hit": -1,
+		"bashing": 10,
+		"ammo": "145x114mm",
+		"range": 45,
+		"ranged_damage": -3,
+		"dispersion": 95,
+		"durability": 7,
+		"barrel_length": 5,
+		"default_mods": [ "bipod", "muzzle_brake" ],
+		"magazine_well": 1,
+		"magazines": [ [ "145x114mm", [ "145x114mm_mag" ] ] ]
+		}
+]

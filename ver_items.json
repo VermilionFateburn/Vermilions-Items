@@ -1,0 +1,51 @@
+[
+{
+    "id": "kantele",
+    "type": "TOOL",
+    "category": "tools",
+    "name": "kantele",
+    "name_plural": "kanteles",
+    "description": "A traditional Finnish plucked string instrument played over the lap. It has a distinctive bell-like sound.",
+    "weight": 500,
+    "volume": 9,
+    "price": 5000,
+    "to_hit": -2,
+    "bashing": 3,
+    "material": [ "wood", "iron" ],
+    "symbol": "|",
+    "color": "brown",
+    "initial_charges": 1,
+    "max_charges": 1,
+    "use_action": {
+      "type": "musical_instrument",
+      "volume": 15,
+      "fun": -3,
+      "fun_bonus": 2,
+      "speed_penalty": 18,
+      "description_frequency": 20,
+      "player_descriptions": [
+        "You play a little tune on your kantele.",
+        "You play a haunting, forlorn tune with your kantele.",
+        "You play a kantele rendition of Säkkijärven Polkka."
+		]
+    }
+	},
+	
+	{
+    "id": "egg_vibrator",
+    "type": "TOOL",
+    "name": "egg vibrator",
+    "name_plural": "egg vibrators",
+    "description": "A discreet adult toy perfect for winding down and relaxing. Not as powerful as a regular vibrator, but takes up less space.",
+    "weight": 273,
+    "volume": 1,
+    "price": 2500,
+    "material": [ "aluminum", "plastic" ],
+    "symbol": ";",
+    "color": "pink",
+    "ammo": "battery",
+    "initial_charges": 50,
+    "max_charges": 50,
+    "use_action": "VIBE"
+  }
+  ]

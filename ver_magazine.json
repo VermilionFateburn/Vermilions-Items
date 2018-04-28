@@ -1,0 +1,19 @@
+[
+  {
+    "id": "145x114mm_mag",
+    "type": "MAGAZINE",
+    "name": "PTRS-41 magazine",
+    "description": "A standard 5-round box magazine for the PTRS-41 anti-tank rifle.",
+    "weight": 727,
+    "volume": 2,
+    "price": 10000,
+    "material": "steel",
+    "symbol": "#",
+    "color": "light_gray",
+    "ammo_type": "145x114mm",
+    "capacity": 5,
+    "reliability": 9,
+    "reload_time": 110,
+    "flags": [ "MAG_BULKY" ]
+  }
+ ]
