@@ -19,3 +19,9 @@ WHAT THE MOD ADDS:
 
     Egg vibrator
     Lighter alternative to the vibrator. Holds only 50 batteries.
+
+
+TO DO:
+
+    Make shockers drop a special item that restores health when killed in Augmented Swordplay, if that even is possible.
+    More items when not lazy.
