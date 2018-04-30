@@ -19,6 +19,12 @@ WHAT THE MOD ADDS:
 
     Egg vibrator
     Lighter alternative to the vibrator. Holds only 50 batteries.
+    
+    Vintage MRE
+    Only comes in beef variant. Found at various sources. Worse than a new MRE. Nice!
+    
+    Bomb suit
+    Offers excellent protection, but is very cumbersome and very hot to wear. Found in SWAT vans and some military spots.
 
 
 TO DO:
