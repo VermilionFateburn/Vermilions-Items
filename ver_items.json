@@ -47,5 +47,38 @@
     "initial_charges": 50,
     "max_charges": 50,
     "use_action": "VIBE"
+  },
+  {
+        "id": "mre_vintage",
+        "type": "GENERIC",
+        "symbol": ")",
+        "color": "brown",
+        "name": "vintage MRE",
+        "name_plural": "vintage MREs",
+        "category": "food",
+        "description": "A 'Meal Ready to Eat' that was once fresh and just what any soldier needed. It comes with various food things and accessories. Nowadays, it's not looking as fresh, but the contents should still be nice! Disassemble to unpack.",
+        "price": 0,
+        "weight": 1000,
+        "volume": 3.2,
+        "material": [ "plastic" ]
+  },
+  {
+        "type" : "COMESTIBLE",
+        "id" : "mre_beef_vintage",
+        "name" : "vintage beef course",
+        "weight" : 130,
+        "color" : "brown",
+        "spoils_in" : 20,
+        "comestible_type" : "FOOD",
+        "symbol" : "%",
+        "healthy" : -3,
+        "nutrition" : 30,
+        "description" : "The now unsealed main course of a vintage MRE. It's not looking incredibly appetizing, but it should still be good eating.",
+        "price" : 0,
+        "material" : "flesh",
+        "volume" : 1,
+        "charges" : 4,
+        "flags" : ["EATEN_HOT"],
+        "fun" : -3
   }
   ]

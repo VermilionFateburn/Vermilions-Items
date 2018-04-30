@@ -4,16 +4,16 @@
     "type": "item_group",
     "items": [
 	[ "hf_blade", 2 ],
-	[ "manual_augsword", 2 ]
-	
+	[ "manual_augsword", 2 ],
+	[ "bomb_suit", 4 ]
 	]
 	},
     {	
 	"id": "science",
 	"type": "item_group",
 	"items": [
-	[ "hf_blade", 1 ],
-	[ "manual_augsword", 1 ]
+	[ "hf_blade", 2 ],
+	[ "manual_augsword", 2 ]
 	
 	]
 	},
@@ -29,14 +29,21 @@
     "type": "item_group",
     "id": "ammo_rifle_obscure",
 	"items": [
-	[ "145x114mm", 35 ]
+	[ "145x114mm", 30 ]
 	]
 	},
 	{
     "type": "item_group",
     "id": "mags_obscure",
 	"items": [
-	[ "145x114mm_mag", 10 ]
+	[ "145x114mm_mag", 30 ]
+	]
+	},
+	{
+    "type" : "item_group",
+    "id" : "lab_dorm",
+    "items":[
+	[ "egg_vibrator", 7 ]
 	]
 	},
 	{
@@ -87,7 +94,65 @@
     "type": "item_group",
     "items": [
 	[ "hf_blade", 2 ],
-	[ "manual_augsword", 2 ]
+	[ "manual_augsword", 2 ],
+	[ "bomb_suit", 5 ]
+	]
+	},
+	{
+    "type" : "item_group",
+    "id" : "shelter",
+    "items":[
+	[ "mre_vintage", 15 ]
+	]
+	},
+	{
+    "type" : "item_group",
+    "id" : "mine_storage",
+    "items":[
+	[ "mre_vintage", 7 ]
+	]
+	},
+	{
+    "type" : "item_group",
+    "id" : "subway",
+    "items":[
+	[ "mre_vintage", 8 ]
+	]
+	},
+	{
+    "type" : "item_group",
+    "id" : "sewer",
+    "items":[
+	[ "mre_vintage", 2 ]
+	]
+	},
+	{
+    "type" : "item_group",
+    "id" : "spider",
+	"items":[
+	[ "mre_vintage", 7 ]
+	]
+	},
+	{
+    "type" : "item_group",
+    "id" : "stash_food",
+    "items":[
+	[ "mre_vintage", 25 ]
+	]
+	},
+	{
+    "type" : "item_group",
+    "id" : "vault_wanderer",
+	"items":[
+	[ "mre_vintage", 15 ]
+	]
+	},
+	{
+    "type" : "item_group",
+    "id" : "swat_gear",
+    "subtype": "distribution",
+    "items":[
+	[ "bomb_suit", 10 ]
 	]
 	}
 ]
